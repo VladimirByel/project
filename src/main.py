@@ -1,6 +1,6 @@
 #!usr/bin/python3
 
 def print_main():
-    print('Hello, Linux!')
+    print('Hello, World!')
 
 print_main()
